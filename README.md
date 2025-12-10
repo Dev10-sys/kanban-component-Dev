@@ -12,16 +12,16 @@ A production-quality, fully accessible, and performant Kanban Board component li
 ## Features
 
 ### Core Functionality
-- ✅ **Columns**: Sticky headers, WIP limits (visual indicators), collapsible columns, task counts.
-- ✅ **Task Cards**: Priority badges, tags, assignees, due dates, description clamping.
-- ✅ **Drag and Drop**: Fully custom HTML5 DnD implementation (no external libraries). Smooth animations, placeholder indicators, auto-scrolling (native).
-- ✅ **Task Management**: Create, edit, delete tasks via a lazy-loaded Modal.
-- ✅ **Filtering & Bulk Actions**: Filter by priority, tags, assignee, search. Bulk delete support.
+- **Columns**: Sticky headers, WIP limits (visual indicators), collapsible columns, task counts.
+- **Task Cards**: Priority badges, tags, assignees, due dates, description clamping.
+- **Drag and Drop**: Fully custom HTML5 DnD implementation (no external libraries). Smooth animations, placeholder indicators, auto-scrolling (native).
+- **Task Management**: Create, edit, delete tasks via a lazy-loaded Modal.
+- **Filtering & Bulk Actions**: Filter by priority, tags, assignee, search. Bulk delete support.
 
 ### UX & Performance
-- ✅ **Responsive**: Horizontal scroll on desktop, optimized layout for tablet/mobile.
-- ✅ **Performance**: Optimized rendering for large datasets (500+ tasks).
-- ✅ **A11y**: Full keyboard navigation, ARIA roles, WCAG 2.1 AA contrast compliance.
+- **Responsive**: Horizontal scroll on desktop, optimized layout for tablet/mobile.
+- **Performance**: Optimized rendering for large datasets (500+ tasks).
+- **A11y**: Full keyboard navigation, ARIA roles, WCAG 2.1 AA contrast compliance.
 
 ---
 
