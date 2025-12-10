@@ -5,7 +5,7 @@
 A production-quality, fully accessible, and performant Kanban Board component library built with React, TypeScript, and Tailwind CSS. This library provides a complete Kanban experience with drag-and-drop support, task management, filtering, and responsive design, engineered to mimic real-world senior frontend standards.
 
 **[View Live Demo (Vercel)](https://kanban-component-c4bjtmc6d-dev10-sys-projects.vercel.app/)**  
-**[View Storybook Documentation](https://main--kanban-component-kalpana.chromatic.com)**
+**[View Storybook Documentation](https://kanban-storybook-1uiuy14r6-dev10-sys-projects.vercel.app/)**
 
 ---
 
@@ -92,5 +92,5 @@ kanban-component/
 
 ## Contact
 
-Engineer: Dev10-sys  
+Engineer: Dev  
 Project: Kanban Component Library
