@@ -92,5 +92,5 @@ kanban-component/
 
 ## Contact
 
-Engineer: Antigravity  
-Project: Kanban Component Library Assignment
+Engineer: Dev10-sys  
+Project: Kanban Component Library
