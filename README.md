@@ -41,8 +41,8 @@ A production-quality, fully accessible, and performant Kanban Board component li
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kanban-component-kalpana.git
-cd kanban-component-kalpana
+git clone https://github.com/Dev10-sys/kanban-component.git
+cd kanban-component
 npm install
 ```
 
