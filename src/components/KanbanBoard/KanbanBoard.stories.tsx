@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import React, { useEffect } from 'react';
+
 import { KanbanBoard } from './KanbanBoard';
 import { useKanbanBoard } from '../../hooks/useKanbanBoard';
 import type { KanbanColumn, KanbanTask } from './KanbanBoard.types';
@@ -120,7 +120,7 @@ export const InteractivePlayground: StoryObj<any> = {
         columnCount: { control: { type: 'range', min: 2, max: 6, step: 1 } },
         addCannedTask: { action: 'clicked' },
     },
-    render: (args) => {
+    render: (args: any) => {
         // This is a bit tricky to control via args cleanly without remounting, 
         // but we can simulate passing fresh props to a key-ed wrapper
 
